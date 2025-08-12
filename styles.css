@@ -36,3 +36,39 @@ nav a {
     align-items: center;
     padding: 100px 150px;
 }
+
+.hero-text {
+    max-width: 500px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 20px 0;
+}
+
+.hero-text button{
+    background-color: #3882f6;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.hero-image {
+    background-color: gray;
+    color: white;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
