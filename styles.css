@@ -32,7 +32,7 @@ nav a {
 .hero {
     background-color: #1f2937;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 100px 150px;
 }
