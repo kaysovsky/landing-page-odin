@@ -109,3 +109,46 @@ nav a {
     max-width: 150px;
 }
 
+.quote {
+    display: block;
+    text-align: right;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.cta {
+    background-color: #3882f6;
+    margin: 100px 150xp;
+    padding: 50px 100px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.cta h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cta p {
+    font-size: 18px;
+}
+
+.cta button {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
